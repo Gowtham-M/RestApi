@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "csv-parse": "^5.0.4",
+    "expess": "^0.0.1-security",
+    "express": "^4.17.2",
+    "init": "^0.1.2",
+    "lookup-csv": "^1.1.0",
+    "mongoose": "^6.3.1",
+    "node-csv": "^0.1.2",
+    "objects-to-csv": "^1.3.6"
+  },
+  "name": "gowtham",
+  "version": "1.0.0",
+  "main": ".mongorc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "testing how to make a api",
+  "keywords": [
+    "hi",
+    "hello"
+  ]
+}
